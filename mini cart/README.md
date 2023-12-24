@@ -1,4 +1,4 @@
-# coe844e1a9264c453b6eb3cdd
+# Mini Cart
 
 Quick start:
 
